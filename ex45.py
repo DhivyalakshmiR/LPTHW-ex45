@@ -1,4 +1,9 @@
-# The problem is to create a text-based adventure game set in a magical forest where the #hero must solve puzzles, face challenges, and retrieve a radiant gemstone to save Sylvan #Vale from Zogtrons. Key concepts include the hero, different forest parts or scenes, the # game engine, and the map guiding the hero through the forest. The solution involves #creating classes for scenes, the game engine, and the map, and then coding them #accordingly. These classes will interact to create the game's structure and logic.
+# The problem is to create a text-based adventure game set in a magical forest where the
+# hero must solve puzzles, face challenges, and retrieve a radiant gemstone to save Sylvan
+# Vale from Zogtrons. Key concepts include the hero, different forest parts or scenes, the
+# game engine, and the map guiding the hero through the forest. The solution involves
+# creating classes for scenes, the game engine, and the map, and then coding them
+# accordingly. These classes will interact to create the game's structure and logic.
 
 from sys import exit
 from random import randint

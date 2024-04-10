@@ -1,4 +1,4 @@
-# In this exercise, you're tasked with creating a game using Python and applying various programming principles such as using classes, methods, and proper code formatting. After creating your game, you'll evaluate it meticulously, identifying mistakes, adhering to coding conventions, and refining your code to improve readability and functionality. This exercise aims to train attention to detail, improve coding skills, and foster independence in problem-solving.
+# In this exercise, you're tasked with creating a game using Python and applying various #programming principles such as using classes, methods, and proper code formatting. After #creating your game, you'll evaluate it meticulously, identifying mistakes, adhering to #coding conventions, and refining your code to improve readability and functionality. This #exercise aims to train attention to detail, improve coding skills, and foster independence #in problem-solving.
 
 # 1. Write or draw about the problem.
 # 2. Extract key concepts from 1 and research them.
